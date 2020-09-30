@@ -25,4 +25,4 @@ View my notebook on [Github](https://github.com/AkshetPatel/My_Spotify_Data_Anal
 #### 5. Top 15 Artists Based on Hours Played in Percentage:
 ![](https://github.com/AkshetPatel/My_Spotify_Data_Analysis/blob/master/Images_of_Visualized_Data/Top%2015%20Artists%20Based%20on%20Hours%20Played%20in%20Percentage.png)
 
-Credits for the idea and the code: [Snigdha](https://github.com/Sniggdhaa) di. 
+Credits for the idea and the code: [Snigdha](https://github.com/Sniggdhaa) Di. 
