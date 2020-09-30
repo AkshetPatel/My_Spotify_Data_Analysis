@@ -7,4 +7,4 @@ During the process I identified the following:
 ### 3. My top 15 Tracks almost changed completely. 
 ### 4. My top artists and tracks changed during the lockdown.
 ### 5. My top two favourite artists based on the data are 'The Local Train' and 'Imagine Dragons' which is 100% accurate.
-Credits for the idea and the code: [Snigdha](https://github.com/Sniggdhaa/Me-Music-and-I) di. 
+Credits for the idea and the code: [Snigdha](https://github.com/Sniggdhaa) di. 
